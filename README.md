@@ -27,19 +27,3 @@ A modern and visually engaging food ordering web application built with passion 
 | Vercel     | Deployment platform       |
 
 ---
-
-## 📸 Screenshots
-
-> _Add screenshots or screen recordings here for visual preview (optional)_  
-> You can include images like `/public/landing.png` or `preview.gif`.
-
----
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-# Open the index.html file directly in your browser
